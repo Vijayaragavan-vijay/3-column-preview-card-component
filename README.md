@@ -38,3 +38,8 @@ Mobile view:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+
+## Author
+
+- Frontend Mentor - [@Vijayaragavan](https://www.frontendmentor.io/profile/vijayaragavankts)
